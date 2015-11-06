@@ -1,0 +1,23 @@
+name: ENT
+favicon: null
+layout_spectrum: 0.6715480503626168
+typography_spectrum: 0.8584031641948968
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8125248628202826
+  lightness: 0.46541710291057825
+  saturation: 0.4767211608123034
+  rhythmicContrast: 0.19755202368833125
+purpose: []
